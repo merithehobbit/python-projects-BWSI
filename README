@@ -1,37 +1,30 @@
-# Filter Fun 
-
-A simple image filter web app.
-
-## What it does
-- Upload an image
-- Apply filters like grayscale, blur, sepia
-- Preview changes instantly
-
-## Tech
-- TypeScript / JavaScript
-- HTML + CSS
-- Express backend (optional version)
-
-## Purpose
-Built for learning full-stack development and UI design.
-
-
+# Filter App Project 
 
 <details>
-  <summary>Click to see project details</summary>
+  <summary> About this project</summary>
 
-### About this project
-This is a full-stack image filter app where users can upload images and apply filters like grayscale, blur, and sepia.
-
-### Features
+This is a full-stack app where users can:
 - Upload images
-- Apply filters in real time
-- Save images to gallery
-- Download images
+- Apply filters
+- Save results
 
-### Tech used
-- React / TypeScript
+</details>
+
+<details>
+  <summary>⚙️ Tech stack</summary>
+
+- TypeScript
 - Node.js + Express
 - PostgreSQL (Drizzle ORM)
+- React frontend
+
+</details>
+
+<details>
+  <summary> How to run</summary>
+
+1. Install dependencies
+2. Run server
+3. Open app in browser
 
 </details>
