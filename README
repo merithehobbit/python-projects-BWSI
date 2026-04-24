@@ -1,30 +1,110 @@
-# Filter App Project 
+#Coding Portfolio — Labs + Fullstack App
 
-<details>
-  <summary> About this project</summary>
+This repository contains my programming labs, algorithm practice, and a full-stack image filter web app.
 
-This is a full-stack app where users can:
+It shows my progress in Python, web development, and backend systems.
+
+---
+
+#  What’s inside
+
+## Python Labs
+
+### Lab 1B — Simple Calculator
+A command-line calculator that supports:
+- Addition
+- Subtraction
+- Multiplication
+- Division (with error handling)
+
+Focus: functions, conditionals, error handling.
+
+---
+
+### Lab 1C — Maximum Subarray
+Finds the largest sum of any contiguous subarray.
+
+Focus:
+- algorithms
+- edge cases
+- debugging broken logic
+
+---
+
+### Lab 1D — Two Sum Problem
+Returns indices of two numbers that add up to a target value.
+
+Focus:
+- hash maps
+- optimization
+- problem solving (LeetCode-style)
+
+---
+
+## Full-Stack Web App (Filter Fun)
+
+A web app that lets users:
 - Upload images
-- Apply filters
-- Save results
+- Apply filters (grayscale, blur, sepia, invert, etc.)
+- Preview changes in real time
+- Save images to a gallery
 
-</details>
-
-<details>
-  <summary>⚙️ Tech stack</summary>
-
+### Tech used:
 - TypeScript
-- Node.js + Express
-- PostgreSQL (Drizzle ORM)
 - React frontend
+- Node.js + Express backend
+- PostgreSQL (via Drizzle ORM)
 
-</details>
+---
 
-<details>
-  <summary> How to run</summary>
+## Web App Features
 
-1. Install dependencies
-2. Run server
-3. Open app in browser
+- Image upload system
+- Live CSS filter preview
+- Gallery system (stored images)
+- Download option for edited images
+- Clean UI with responsive design
 
-</details>
+---
+
+##  What this project demonstrates
+
+- Python fundamentals
+- Data structures and algorithms
+- Full-stack development
+- API design
+- Frontend UI work
+- Working with databases
+- Debugging and problem solving
+
+---
+
+##  How to run
+
+### Python labs:
+Run each file individually:
+
+python lab_1b.py
+python lab_1c.py
+python lab_1d.py
+
+
+### Web app:
+
+npm install
+npm run dev
+
+
+---
+
+##  Notes
+
+- Some labs are based on classic coding problems (LeetCode-style)
+- The web app was built as a learning project for full-stack development
+- This repo represents my learning progress over time
+
+---
+
+##  Author
+
+Built by me while learning programming, web development, and algorithms.
